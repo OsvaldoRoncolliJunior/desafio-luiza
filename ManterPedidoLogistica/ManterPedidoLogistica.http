@@ -1,0 +1,6 @@
+@ManterPedidoLogistica_HostAddress = http://localhost:5153
+
+GET {{ManterPedidoLogistica_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
